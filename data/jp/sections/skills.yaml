@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: 化学分析
+  summary: ICP-MS や XRF を用いた全岩化学組成分析のほか, MC-ICP-MS を用いた Re-Os 同位体比分析を行っています.
+
+- name: 微化石を用いた年代決定
+  summary: 魚類の歯や鱗の微化石「イクチオリス」を用いた年代決定を長い間研究しています
+  
+- name: Python Programing
+  logo: /images/python-logo.png
+  summary: "Using as the main language for development. Capable of writing scalable, testable, and maintainable program."
+
+- name: Deep learning
+  logo: /images/general2022.png
+  summary: "ディープラーニング G 検定の 2022 年 #1 合格者です"
+
+- name: GitHub
+  logo: /images/GitHub-Mark-64px.png
+  summary: "作成したプログラムコードの一部は GitHub で公開しています．クリックすると GitHub のページに飛びます"
+  url: "https://github.com/KazuhideMimura"
+
+- name: Linux
+  logo: /images/linux-logo.svg
+  summary: "サブでLinux PC を使っています．簡単な bash コードは書けます"

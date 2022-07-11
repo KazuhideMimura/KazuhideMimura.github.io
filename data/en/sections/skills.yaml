@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Chemical analyses
+  summary: Experienced bulk chemical analyses by XRF, ICP-MS and Re-Os analysis using MC-ICP-MS.
+
+- name: Biostratigraphy
+  summary: I've long been studying to constrain depositional age of deep-sea sediment using microfossil of fish teeth
+  
+- name: Python Programing
+  logo: /images/python-logo.png
+  summary: "Using as the main language for development. Capable of writing scalable, testable, and maintainable program."
+
+- name: Deep learning
+  logo: /images/general2022.png
+  summary: "Qualified by Japan Deep Learning Association (generalist)"
+
+- name: GitHub
+  logo: /images/GitHub-Mark-64px.png
+  summary: "Experienced with developping Github repositories. CLICK HERE to see my GitHub page."
+  url: "https://github.com/KazuhideMimura"
+
+- name: Linux
+  logo: /images/linux-logo.svg
+  summary: "Using as the sub operating system. Capable of writing some bash scripts."
+
+# TODO:
+# Re-Os analysis, Bulk chemical analysis Ichthyolith dating, Data science

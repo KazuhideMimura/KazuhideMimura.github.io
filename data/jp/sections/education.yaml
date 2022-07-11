@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: 博士 (工学)
+  icon: fa-graduation-cap
+  timeframe: 2018-2021
+  institution:
+    name: "東京大学大学院, 工学系研究科, システム創成学専攻"
+    url: "https://www.sys.t.u-tokyo.ac.jp/en/?lang=en"
+
+- name: 修士 (工学)
+  icon: fa-graduation-cap
+  timeframe: 2016-2018
+  institution:
+    name: "東京大学大学院, 工学系研究科, システム創成学専攻"
+    url: "https://www.sys.t.u-tokyo.ac.jp/en/?lang=en"
+
+- name: 学士 (工学)
+  icon: fa-graduation-cap
+  timeframe: 2012-2016
+  institution:
+    name: 東京大学, 工学部, システム創成学科
+    url: "https://www.si.t.u-tokyo.ac.jp/"
