@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kazuhide Mimura&#39;s page</title>
+    <link>https://KazuhideMimura.github.io/posts/</link>
+    <description>Recent content in Posts on Kazuhide Mimura&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jul 2022 15:45:00 +1000</lastBuildDate><atom:link href="https://KazuhideMimura.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>About logo</title>
+      <link>https://KazuhideMimura.github.io/posts/2_aboutlogo/</link>
+      <pubDate>Sun, 10 Jul 2022 15:45:00 +1000</pubDate>
+      
+      <guid>https://KazuhideMimura.github.io/posts/2_aboutlogo/</guid>
+      <description>I created a logo with based on three letters &amp;ldquo;mim&amp;rdquo; in my name.
+The illustration is designed with a motif of ichthyoliths (fish teeth and denticles) that I work on.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://KazuhideMimura.github.io/posts/1_test/</link>
+      <pubDate>Thu, 30 Jun 2022 20:12:23 +0900</pubDate>
+      
+      <guid>https://KazuhideMimura.github.io/posts/1_test/</guid>
+      <description>This is a test </description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>
