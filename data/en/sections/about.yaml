@@ -35,9 +35,9 @@ socialLinks:
 #   icon: "fab fa-linkedin"
 #   url: "#"
 
-# - name: Twitter
-#   icon: "fab fa-twitter"
-#   url: "#"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/KazuhideMimura/"
 
 # - name: Facebook
 #   icon: "fab fa-facebook"
