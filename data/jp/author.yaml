@@ -3,7 +3,7 @@ name: "見邨和英"
 nickname: " "
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Explore deep ocean"
-image: "images/DSC_1170_square.png"
+image: "images/logo_v2_inverted.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   Google Form: https://forms.gle/aFDkLqCqUKRDp5Yy7
