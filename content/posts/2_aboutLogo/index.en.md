@@ -1,6 +1,7 @@
 ---
 title: "About logo"
-date: 2022-07-10T15:45:00+10:00
+# date: 2022-10-16T18:38:00+9:00
+date: 2022-10-16T19:30:23+09:00
 categories: [""]
 tags: ["HP",]
 # Authors: "Kazuhide Mimura"
@@ -12,9 +13,14 @@ tags: ["HP",]
 
 I created a logo with based on three letters "mim" in my name.
 
-The illustration is designed with a motif of **ichthyoliths** (fish teeth and denticles) that I work on.
+It contains designs of **ichthyoliths** (microfossils of fish teeth and denticles) and deep sea sediment cores that I work on.
 
-![logo](/images/logo_v2_inverted.png)
+![ichthyoliths](/images/ichthyoliths.png)
+
+![core photo](/images/1149B3R.png)
+
+ref: [International Ocean Discovery Program ](http://www-odp.tamu.edu/publications/185_IR/VOLUME/CORES/IMAGES/1149B3R.PDF)
+
 <!-- <img src="/images/logo_v2_inverted.png" alt="logo image"> -->
 
 <!-- 

@@ -1,6 +1,6 @@
 ---
 title: "ロゴについて"
-date: 2022-07-10T15:45:00+10:00
+date: 2022-10-16T19:30:23+09:00
 categories: [""]
 tags: ["HP",]
 # Authors: "Kazuhide Mimura"
@@ -10,10 +10,15 @@ tags: ["HP",]
 # math: true
 ---
 
-名前の頭文字 "mim" をベースにロゴを作成しました．イラストは，研究の対象である**イクチオリス** (魚類の歯や鱗の微化石) をモチーフにしています．
+名前の頭文字 "mim" をベースにロゴを作成しました．
 
-![logo](/images/logo_v2_inverted.png)
+研究の対象としている**イクチオリス** (魚類の歯や鱗の微化石) や海底から採取された堆積物コアをモチーフにしています．
 
+![ichthyoliths](/images/ichthyoliths.png)
+
+![core photo](/images/1149B3R.png)
+
+出典: [International Ocean Discovery Program ](http://www-odp.tamu.edu/publications/185_IR/VOLUME/CORES/IMAGES/1149B3R.PDF)
 <!-- 
 ### 1. Introduction
 xxxx
