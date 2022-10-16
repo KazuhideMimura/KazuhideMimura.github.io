@@ -10,6 +10,12 @@ section:
   # hideTitle: true
 
 degrees:
+- name: September, 2022
+  icon: /images/non.jpg
+  institution:
+    name: "KM22-11C: survey for massive sulfide deposits in the Higashi-Aogashima knoll caldera, Japan"
+    url: "https://orceng-cit.jp/blog/detail/1202"
+
 - name: May-June, 2017
   icon: /images/non.jpg
   institution:
