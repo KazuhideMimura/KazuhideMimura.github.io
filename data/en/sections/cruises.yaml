@@ -1,10 +1,10 @@
 # section information
 section:
-  name: Cruises
+  name: Research Cruises
   id: cruises
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 3
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -25,18 +25,3 @@ degrees:
   icon: /images/non.jpg
   institution:
     name: "MR16-07: survey for REY-rich mud around Minamitorishima Island, Japan"
-
-
-# - name: Master (Engineering)
-#   icon: fa-graduation-cap
-#   timeframe: 2016-2018
-#   institution:
-#     name: Department of Systems Innovation, School of Engineering, The University of Tokyo
-#     url: "https://www.sys.t.u-tokyo.ac.jp/en/?lang=en"
-
-# - name: Bachelor (Engineering)
-#   icon: fa-graduation-cap
-#   timeframe: 2012-2016
-#   institution:
-#     name: Systems Innovation,Faculty of Engineering,The University of Tokyo
-#     url: "https://www.si.t.u-tokyo.ac.jp/"

@@ -1,15 +1,22 @@
 # section information
 section:
-  name: Education
+  name: Education / Jobs
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
+- name: 主任研究員
+  icon: /images/non.jpg
+  timeframe: 2021-
+  institution:
+    name: "千葉工業大学，次世代海洋資源研究センター"
+    url: "https://orceng-cit.jp/"
+
 - name: 博士 (工学)
   icon: fa-graduation-cap
   timeframe: 2018-2021

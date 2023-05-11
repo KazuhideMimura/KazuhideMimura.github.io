@@ -1,15 +1,22 @@
 # section information
 section:
-  name: Education
+  name: Education / Jobs
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
+- name: Chief Research Scientist
+  icon: /images/non.jpg
+  timeframe: 2021-
+  institution:
+    name: Ocean Resources Research Center for Next Generation, Chiba Institute of Technology
+    url: "https://orceng-cit.jp/"
+
 - name: Ph.D (Engineering)
   icon: fa-graduation-cap
   timeframe: 2018-2021

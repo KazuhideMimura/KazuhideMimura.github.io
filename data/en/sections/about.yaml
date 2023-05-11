@@ -14,7 +14,7 @@ company:
   url: "https://orceng-cit.jp/"
 
 # a summary about you
-summary: 'I am a researcher working on deep sea mineral resources'
+summary: "Works: https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -26,6 +26,10 @@ socialLinks:
 - name: Contact to Kazuhide Mimura via google form
   icon: "fab fa-google"
   url: "https://docs.google.com/forms/d/e/1FAIpQLSdzB4lZSq0zvKYEDB5LjYmECwcdzoDXJzAJJyRvyGQOItln1g/viewform?usp=sf_link"
+
+- name: ORCiD
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-6411-0378"
 
 # - name: Stackoverflow
 #   icon: "fab fa-stack-overflow"
