@@ -10,21 +10,28 @@ section:
   # hideTitle: true
 
 degrees:
+- name: June, 2024
+  icon: /images/non.jpg
+  institution:
+    name: "YK24-10S: マントル物質が切り開く小スケールマントル対流の新たな展望～プチスポットカンラン岩捕獲からの挑戦～"
+
 - name: September, 2022
   icon: /images/non.jpg
   institution:
-    name: "KM22-11C: survey for massive sulfide deposits in the Higashi-Aogashima knoll caldera, Japan"
-    url: "https://orceng-cit.jp/blog/detail/1202"
+    name: "KM22-11C: 	東青ヶ島カルデラ海底熱水サイトにおける金の異常濃集機構の解明: ROV潜航調査Part2"
+    url: "https://www.godac.jamstec.go.jp/cr_catalog/external/metadata/KM22-11C_all/file/KM22-11C_all.pdf"
 
 - name: May-June, 2017
   icon: /images/non.jpg
   institution:
-    name: "YK17-11C: survey for ferromanganese nodules around Minamitorishima Island, Japan"
+    name: "南鳥島周辺マンガンノジュール広域調査"
+    url: "https://www.godac.jamstec.go.jp/cr_catalog/external/metadata/YK17-11C_all/file/YK17-11C_all.pdf"
 
 - name: November, 2016
   icon: /images/non.jpg
   institution:
-    name: "MR16-07: survey for REY-rich mud around Minamitorishima Island, Japan"
+    name: "MR16-07: 南鳥島周辺海域のレアアース泥広域調査"
+    url: "https://www.godac.jamstec.go.jp/cr_catalog/external/metadata/MR16-07_all/file/MR16-07_all.pdf"
 
 
 # - name: Master (Engineering)

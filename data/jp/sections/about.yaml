@@ -7,11 +7,11 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: 主任研究員
+designation: 研究員
 # your company information
 company:
-  name: 千葉工業大学・次世代海洋資源研究センター
-  url: "https://orceng-cit.jp/"
+  name: 産業技術総合研究所・地質調査総合センター
+  url: "https://www.gsj.jp/"
 
 # a summary about you
 summary: "研究業績: https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md"

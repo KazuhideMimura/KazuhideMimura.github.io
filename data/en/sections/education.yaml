@@ -10,9 +10,16 @@ section:
   # hideTitle: true
 
 degrees:
+- name: Reseacher
+  icon: /images/non.jpg
+  timeframe: 2024-
+  institution:
+    name: Geological Survey of Japan, National Institute of Advanced Industrial Science and Technology
+    url: "https://www.gsj.jp/en/index.html"
+
 - name: Chief Research Scientist
   icon: /images/non.jpg
-  timeframe: 2021-
+  timeframe: 2021-2024
   institution:
     name: Ocean Resources Research Center for Next Generation, Chiba Institute of Technology
     url: "https://orceng-cit.jp/"

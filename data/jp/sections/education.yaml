@@ -10,9 +10,16 @@ section:
   # hideTitle: true
 
 degrees:
+- name: 研究員
+  icon: /images/non.jpg
+  timeframe: 2024-
+  institution:
+    name: "産業技術総合研究所・地質調査総合センター"
+    url: "https://www.gsj.jp/"
+
 - name: 主任研究員
   icon: /images/non.jpg
-  timeframe: 2021-
+  timeframe: 2021-2024
   institution:
     name: "千葉工業大学，次世代海洋資源研究センター"
     url: "https://orceng-cit.jp/"

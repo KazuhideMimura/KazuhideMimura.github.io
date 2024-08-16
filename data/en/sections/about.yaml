@@ -7,11 +7,11 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # your designation
-designation: Chief Reseach Scientist
+designation: Reseacher
 # your company information
 company:
-  name: Ocean Resources Research Center for Next Generation, Chiba Institute of Technology
-  url: "https://orceng-cit.jp/"
+  name: Geological Survey of Japan, National Institute of Advanced Industrial Science and Technology
+  url: "https://www.gsj.jp/en/index.html"
 
 # a summary about you
 summary: "Works: https://github.com/KazuhideMimura/KazuhideMimura/blob/main/research.md"
